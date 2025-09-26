@@ -1,0 +1,7 @@
+{
+  "env": {
+    "VITE_SUPABASE_URL": "https://qfnakcrjzzchrjifdnaz.supabase.co",
+    "VITE_SUPABASE_PUBLISHABLE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFmbmFrY3JqenpjaHJqaWZkbmF6Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg4OTg0NTcsImV4cCI6MjA3NDQ3NDQ1N30.FXWq0WGGlbn3_Rx4qkwTWiPjqpS8fvQ_OzKFiIltzgs",
+    "VITE_SUPABASE_PROJECT_ID": "qfnakcrjzzchrjifdnaz"
+  }
+}
